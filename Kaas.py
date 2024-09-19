@@ -36,7 +36,7 @@ class MainWindow(QMainWindow):
         super().__init__()
         self.config_manager = config_manager
         self.excel_manager = excel_manager
-        self.setWindowFlags(Qt.Window | Qt.WindowTitleHint | Qt.WindowSystemMenuHint | Qt.WindowMinMaxButtonsHint)  # Ensure buttons are available
+        self.setWindowFlags(Qt.WindowType.Window | Qt.WindowType.WindowTitleHint | Qt.WindowType.WindowSystemMenuHint | Qt.WindowType.WindowMinMaxButtonsHint)  # Ensure buttons are available
         self.init_ui()
         self.create_shortcuts()
         self.showFullScreen()  # You can remove this line if you want the window to start in a normal state
