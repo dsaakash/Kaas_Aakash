@@ -1,0 +1,13 @@
+{
+    
+    "sheet_name": "FreedomBlast(Future)",
+    
+    "enabled_features": {
+        "excel_viewer": true,
+        "functions": true,
+        "voice_recording": true,
+        "telegram": false,
+        "github": true
+    },
+    "excel_file": "C:\\Users\\91861\\Desktop\\Kaas\\KaasQt\\Kaas.xlsx"
+}
