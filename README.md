@@ -41,7 +41,7 @@ Run Setup.py
 
 1. Run the `main.py` file to start the application:
    ```bash
-   python main.py
+   python Kaas.py
    ```
 
 2. The application will open with two tabs:
