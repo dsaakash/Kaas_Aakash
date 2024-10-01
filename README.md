@@ -33,6 +33,9 @@ This is a PyQt6-based desktop application that allows users to upload audio file
    ```bash
    pip install -r requirements.txt
    ```
+or 
+
+Run Setup.py
 
 ## Running the Application
 
